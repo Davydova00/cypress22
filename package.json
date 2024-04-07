@@ -1,0 +1,17 @@
+{
+  "name": "cypress_bober",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run --headed"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^5.1.0",
+    "cypress": "^13.7.1",
+    "faker": "^6.6.6"
+  }
+}
